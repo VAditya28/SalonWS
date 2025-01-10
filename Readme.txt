@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for viewing this project!
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a practice project for a salon 
+
+Author: WarDady
